@@ -1,0 +1,8 @@
+name: NoItemRename
+version: '${project.version}'
+main: me.zuhaz.noitemrename.NoitemRename
+api-version: '1.8'
+load: STARTUP
+authors: [Zuhaz]
+description: A simple plugin to prevent item renaming via anvil.
+website: https://zuhaz.me
