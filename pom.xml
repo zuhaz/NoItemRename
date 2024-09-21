@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.Zuhaz</groupId>
-    <artifactId>NoitemRename</artifactId>
+    <artifactId>NoItemRename</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>NoitemRename</name>
+    <name>NoItemRename</name>
 
     <description>A simple plugin to prevent item renaming.</description>
     <properties>
