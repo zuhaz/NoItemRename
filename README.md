@@ -6,7 +6,7 @@ NoItemRename offers a simple yet effective solution for server administrators wh
 For support or assistance with the NoItemRename plugin, please visit our [GitHub repository](https://github.com/zuhaz/NoItemRename) or contact us through the SpigotMC forums or join our [Discord Server](https://discord.gg/7mhdvfgybX).
 
 # Installation
-1. Download the latest version of NoItemRename from the [releases page](https://github.com/zuhaz/NoItemRename/releases) or [SpigotMC](https://www.spigotmc.org/resources/noitemrename.119713) or [Modrinth](https://modrinth.com/plugin/NoItemRename/).
+1. Download the latest version of NoItemRename from the [releases page](https://github.com/zuhaz/NoItemRename/releases) or [SpigotMC](https://www.spigotmc.org/resources/noitemrename.119713) or [Modrinth](https://modrinth.com/plugin/noitemrename/).
 2. Place the downloaded `.jar` file in your server's `plugins` folder.
 3. Restart or reload your server.
 
